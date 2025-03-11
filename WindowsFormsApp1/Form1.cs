@@ -75,7 +75,7 @@ namespace WindowsFormsApp1
         private void Form1_Load(object sender, EventArgs e)
         {
             // '-' .-. ._. .-. '-'
-            // COmentário
+            // Adicionar comentário
         }
 
         private void bt_salvar_Click(object sender, EventArgs e)
